@@ -1,2 +1,21 @@
-# Form-Using-React
-A responsive form built with React, using React Hook Form for efficient validation and styled-components for styling. Showcases modern form handling, component styling, and state management in React.
+# 📝 React Form Application
+
+A responsive and dynamic **Form Application** built using **React** and **Tailwind CSS**. This form demonstrates controlled components, form validation, and clean UI — perfect for learning or integrating into larger projects.
+
+🔗 **Live Demo**: [click to live here](https://form-using-react-gamma.vercel.app)
+
+## 🚀 Features
+
+- ✅ Controlled form inputs
+- 🔍 Real-time validation
+- 🎨 Clean and modern UI with Tailwind CSS
+- 📱 Fully responsive design
+- ⚙️ Easy to integrate and customize
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **JavaScript**
+
+
